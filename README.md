@@ -1,4 +1,4 @@
-# 🪨 📃 ✂️ 
+# 🪨📃✂️ 
 
 Piedra, papel o tijera. En este juego pongo en práctica los conocimientos JavaScript adquiridos en la primera parte del Módulo 2 del Bootcamp de Programación Web de Adalab. 
 
